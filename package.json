@@ -11,5 +11,11 @@
     "url": "https://bitbucket.org/vasilypvlasov/basic"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "grunt-contrib-watch": "^0.6.1"
+  }
 }
